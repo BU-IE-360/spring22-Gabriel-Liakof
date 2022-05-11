@@ -6,4 +6,4 @@
 
 ## HW 2
 
-[Here](files/hw2/hw2.html) is my homework.
+[Here](files/homework2/hw2.html) is my homework.
